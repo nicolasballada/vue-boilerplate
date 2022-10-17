@@ -28,3 +28,5 @@ This boilerplate was originally created at [custom Vue 3 boilerpalte tutorial](h
 ## Lint
 
 `npm run lint`
+
+`https://github.com/richardevcom/vue3-boilerplate`
