@@ -93,24 +93,29 @@ nav a:first-of-type {
   }
 
   .footer-message {
-    padding: 3vh;
+    margin: 1vh;
+    padding: 1vh;
     width: auto;
   }
 
   .footer-img {
-    margin: 2vh;
+    margin: 1vh;
+    padding: 1vh;
+    width: 100px;
   }
 
   .wrapper {
-    margin: 5vh;
-    min-height: 50vh;
+    margin: 2vh;
+    padding: 3vh;
+    min-height: 60vh;
   }
 
   nav {
     text-align: left;
     margin-left: -1rem;
     font-size: 1.2rem;
-    padding: 2vh 2w;
+    margin: 1vh 1vw;
+    padding: 1vh 1vw;
   }
 }
 </style>
