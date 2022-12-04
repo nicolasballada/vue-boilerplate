@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a as _}from"./main.96f21d4b.js";const s={},c={class:"about"},n=_("h1",null,"Mock 'about' view",-1),a=[n];function r(i,u){return t(),o("div",c,a)}const l=e(s,[["render",r]]);export{l as default};
